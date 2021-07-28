@@ -348,3 +348,7 @@ div#one {
   color: #ffee00;
   transition: 2s;
 }
+/*resume subheading color*/
+.subheading{
+  color: yellow;
+}
